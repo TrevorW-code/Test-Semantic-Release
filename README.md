@@ -11,7 +11,7 @@ Currently tested:
 - refactor: n
 - perf: y
 - style: n
-- docs: n
+- docs: y
 - build: n
 - ci: n
 - test: n
