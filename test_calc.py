@@ -11,7 +11,7 @@ class TestCalc(unittest.TestCase):
 	def test_subtract(self):
 		self.assertEqual(calc.subtract(10,5),5)
 		self.assertEqual(calc.subtract(-1,1),-2)
-		self.assertEqual(calc.subtract(-1,-1),-2)
+		self.assertEqual(calc.subtract(-1,-1),0)
 	
 	def test_multiply(self):
 		self.assertEqual(calc.multiply(10,5),50)
@@ -22,6 +22,7 @@ class TestCalc(unittest.TestCase):
 		self.assertEqual(calc.divide(10,5),2)
 		self.assertEqual(calc.divide(-1,1),-1)
 		self.assertEqual(calc.divide(-1,-1),1)
+		self.assertEqual(calc.divide(5,2),2.5)
 
 
 if __name__ == '__main__':
