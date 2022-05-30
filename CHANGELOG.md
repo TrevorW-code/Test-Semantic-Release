@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.2 (2022-05-30)
+### Fix
+* Updated Readme ([`9732b78`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/9732b7845c69c0df673505249cd9646770f73b73))
+
 ## v0.1.1 (2022-05-30)
 ### Performance
 * Fixed readme ([`a69832f`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/a69832ff61445542511f987a557bca8d6674cfb6))
