@@ -6,11 +6,12 @@ And it does! This is great. I think one more thing I want to do is specify the b
 You can specify what branch in the config file setup.
 
 Currently tested:
-- feat
-- fix
-- refactor
-- perf
-- style
-- docs
+- feat: y
+- fix: y
+- refactor: n
+- perf: y
+- style: n
+- docs: n
+- build: n
 
 I'm happy with how this is going. I kinda wonder why style tags are not shown, but that is something I can figure out tomorrow. Ciao!
