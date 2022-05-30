@@ -1,7 +1,7 @@
 import unittest
 import calc # can import because same directory
 
-class TestCalc(unittest.TestCase)
+class TestCalc(unittest.TestCase):
 
 	def test_add(self):
 		result = calc.add(10,5)
