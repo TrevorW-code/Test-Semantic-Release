@@ -2,6 +2,18 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.0 (2022-05-30)
+### Feature
+* **employee:** Created monthly schedule method and following tests ([`40f0b20`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/40f0b20edcc91385bf4ed485410db932a37e520a))
+* **employee:** Added new class with various methods for employee ([`8389702`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/8389702a8496aadcee1c3aba5b542013cbac30bf))
+* Added more functions ([`931348e`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/931348eef4c191432339e4ee0e2c67d32e40e63b))
+
+### Fix
+* **calc:** Fixed function naming error, added gitignore ([`395dea1`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/395dea1c5f3f2807773e29418b1c962c26173979))
+
+### Documentation
+* Changed readme ([`c7d2290`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/c7d229097b1a3228e2de4d67b2b6b7435d659a56))
+
 ## v0.1.2 (2022-05-30)
 ### Fix
 * Updated Readme ([`9732b78`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/9732b7845c69c0df673505249cd9646770f73b73))
