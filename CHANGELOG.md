@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.1 (2022-05-30)
+### Performance
+* Fixed readme ([`a69832f`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/a69832ff61445542511f987a557bca8d6674cfb6))
+
 ## v0.1.0 (2022-05-28)
 ### Feature
 * Added sum ([`1abb8a7`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/1abb8a75434787e3596cd46a0ba8097db1f235df))
