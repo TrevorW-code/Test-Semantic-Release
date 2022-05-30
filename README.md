@@ -11,5 +11,6 @@ Currently tested:
 - refactor
 - perf
 - style
+- docs
 
 I'm happy with how this is going. I kinda wonder why style tags are not shown, but that is something I can figure out tomorrow. Ciao!
