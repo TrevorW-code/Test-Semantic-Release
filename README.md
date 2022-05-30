@@ -14,6 +14,6 @@ Currently tested:
 - docs: n
 - build: n
 - ci: n
-- test: ?
+- test: n
 
 I'm happy with how this is going. I kinda wonder why style tags are not shown, but that is something I can figure out tomorrow. Ciao!
