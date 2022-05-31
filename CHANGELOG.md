@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v1.1.0 (2022-05-31)
+### Feature
+* **Mandil:** Stated that he is the best ([`cad3e6b`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/cad3e6b2b673e6edf270a7ef137c715f26ac877c))
+
 ## v1.0.0 (2022-05-31)
 ### Feature
 * Changed title ([`edda500`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/edda5009a7d64d8a56bbe97bc9f59c7efa901891))
