@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+## v1.0.0 (2022-05-31)
+### Feature
+* Changed title ([`edda500`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/edda5009a7d64d8a56bbe97bc9f59c7efa901891))
+
+### Breaking
+* changed title ([`edda500`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/edda5009a7d64d8a56bbe97bc9f59c7efa901891))
+
 ## v0.3.0 (2022-05-31)
 ### Feature
 * **readme:** Added Ciao and Seeya ([`a6ffa6a`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/a6ffa6a33b37b9cace0a53f110bb375557bb5cb8))
