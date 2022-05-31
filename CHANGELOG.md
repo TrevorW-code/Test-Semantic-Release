@@ -2,6 +2,14 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.0 (2022-05-31)
+### Feature
+* **readme:** Added Ciao and Seeya ([`a6ffa6a`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/a6ffa6a33b37b9cace0a53f110bb375557bb5cb8))
+
+### Documentation
+* **readme:** Updated ciao to seeya ([`7d00d0f`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/7d00d0fac3cdf2f805bad2c585eb8f2555b14a7f))
+* Updated readme ([`fa88376`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/fa8837677b91a84b0e5980cbdcd0fb1afa73adbc))
+
 ## v0.2.0 (2022-05-30)
 ### Feature
 * **employee:** Created monthly schedule method and following tests ([`40f0b20`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/40f0b20edcc91385bf4ed485410db932a37e520a))
