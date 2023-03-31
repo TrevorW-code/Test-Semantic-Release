@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v1.1.1 (2023-03-31)
+### Performance
+* Accelerated with print statement ([`c445adc`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/c445adcf96d8af72165ab3d1514d8d5331507fe5))
+
 ## v1.1.0 (2022-05-31)
 ### Feature
 * **Mandil:** Stated that he is the best ([`cad3e6b`](https://github.com/TrevorW-code/Test-Semantic-Release/commit/cad3e6b2b673e6edf270a7ef137c715f26ac877c))
